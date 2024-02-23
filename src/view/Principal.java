@@ -16,8 +16,7 @@ public class Principal {
 			if (num < 0 || num > 12) {
 				System.out.println("Entrada inválida, insira novamente:");
 			}
-		}
-		while (num < 0 || num > 12);
+		} while (num < 0 || num > 12);
 		System.out.println("Fatorial de " + num + ": " + fatController.calcFatorial(num));
 		entrada.close();
 		System.exit(0);

@@ -1,4 +1,4 @@
-# Estrutura de Dados - Exercício 02 - Recursividade
+# Estrutura de Dados - Exercício 03 - Recursividade
 
 Exercício de Recursividade para a matéria de Estrutura de Dados do curso de Análise e Desenvolvimento de Sistemas da FATEC Zona Leste
 
